@@ -1,7 +1,8 @@
 ﻿## Projeto Final Back-End
 
 
-📖 Descrição
+<p>📖 Descrição
+ 
 Este é um backend criado em TypeScript, em conformidade com a arquitetura MVC (Model, View, Controller), ligado a um banco de dados relacional. O projeto possui um caminho de autenticação baseado em JWT (Token Web JSON), permite operações de CRUD e foi desenvolvido para se integrar com um frontend de sua preferência.
 
 ﻿<hr>
